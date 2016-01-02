@@ -1,7 +1,7 @@
 name: mamscorner
 favicon: null
 layout_spectrum: 0.8511464302428067
-typography_spectrum: 0.916095940163359
+typography_spectrum: 0.75829
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ebce82'
+    - '#814523'
+    - '#937647'
+    - '#6cc9df'
+    - '#0396c2'
   brandStrength: 0.9849399079103023
   lightness: 0.056278239004313946
   saturation: 0.5769971129484475
